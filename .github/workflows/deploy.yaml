@@ -1,5 +1,0 @@
-name: My Workflow
-on:
-  push:
-env:
-  DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
